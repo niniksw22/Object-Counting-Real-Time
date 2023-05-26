@@ -14,4 +14,4 @@ Before run the code, you should install some packages, there are:
 - yt-dlp
 
 How to install package in thonny:
-- Choose **Tools** menu > **Manage Package** > write the package that you want to download > **Search on PyPl** > **Install**
+- Choose **Tools** menu > **Manage Package** > write the package that you want > **Search on PyPl** > **Install**
